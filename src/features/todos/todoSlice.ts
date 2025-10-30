@@ -20,6 +20,7 @@ const todosSlice = createSlice({
     reducers: {
         addTodo(state, action: PayloadAction<string>) {
             // TODO: implement adding a new todo
+            
         },
         toggleTodo(state, action: PayloadAction<string>) {
             // TODO: implement toggling completed status by id
